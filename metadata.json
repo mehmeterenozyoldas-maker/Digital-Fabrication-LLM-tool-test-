@@ -1,0 +1,8 @@
+{
+  "name": "Remix Minimal Surfaces Designer",
+  "description": "Advanced parametric minimal surface & digital fabrication studio with multi-material engineering, advanced joinery, and step-by-step assembly guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
